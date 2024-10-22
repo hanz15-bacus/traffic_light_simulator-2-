@@ -1,1 +1,1 @@
-![alt](dfa and table.png)
+![alt](tableanddfa.png)
